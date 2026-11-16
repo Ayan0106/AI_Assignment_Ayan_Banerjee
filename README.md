@@ -1,7 +1,9 @@
 # SAMADHAN SUCHAK – AI-Powered Customer Support Ticket Classification
 
 **Submitted by:** Ayan Banerjee
+
 **Date:** 17.11.2026
+
 **Assignment:** AI Fresher – Technical Assignment
 
 ---
@@ -54,7 +56,7 @@ A company receives support requests through email, chat and other channels. Sort
 ## 5. Project Structure
 
 ```
-AI_Assignment_Ayan/
+AI_Assignment_Ayan_Banerjee/
 ├── data/
 │   └── tickets.csv
 ├── src/
@@ -77,7 +79,7 @@ Requirements: Python 3.9 – 3.12 and an internet connection for the **first run
 **Windows (PowerShell):**
 
 ```powershell
-cd AI_Assignment_Ayan
+cd AI_Assignment_Ayan_Banerjee
 python -m venv venv
 venv\Scripts\Activate.ps1
 pip install -r requirements.txt
@@ -88,7 +90,7 @@ If PowerShell blocks the activation script, run once: `Set-ExecutionPolicy -Scop
 **Linux / macOS:**
 
 ```bash
-cd AI_Assignment_Ayan
+cd AI_Assignment_Ayan_Banerjee
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
