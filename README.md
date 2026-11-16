@@ -4,8 +4,6 @@
 
 **Date:** 17.11.2026
 
-**Assignment:** AI Fresher – Technical Assignment
-
 ---
 
 ## 1. Project Overview
