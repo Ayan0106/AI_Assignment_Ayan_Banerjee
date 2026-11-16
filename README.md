@@ -153,15 +153,6 @@ Predicted Category: FEEDBACK
 Confidence: 99.5%
 ```
 
-**Out-of-domain ticket (sent to a human)**
-
-```
-Enter Ticket Description:
-> The application is taking too long too load.
-
-Predicted Category: Needs human review
-Confidence: 25.4%
-```
 
 **More examples**
 
